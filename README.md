@@ -8,6 +8,9 @@ L'objectif était de mettre en place une **infrastructure réseau** combinant de
 - 6 fichiers de configuration de Vagrant (`*.sls`).
 - Chaque fichier permet de configurer manuellement une VM en adressant les interfaces et les routes.
 
+## Schéma réseau
+![Schéma du réseau](images/reseau.png)
+
 ## Compétences mises en oeuvre
 - **Virtualisation** avec VirtualBox + Vagrant.
 - **Adressage** IPv4 et IPv6.
