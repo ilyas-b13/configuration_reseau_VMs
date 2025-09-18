@@ -9,7 +9,7 @@ L'objectif était de mettre en place une **infrastructure réseau** combinant de
 - Chaque fichier permet de configurer manuellement une VM en adressant les interfaces et les routes.
 
 ## Schéma réseau
-![Schéma du réseau](images/reseau.png)
+![Schéma du réseau](images/système_IPv4_IPv6.png)
 
 ## Compétences mises en oeuvre
 - **Virtualisation** avec VirtualBox + Vagrant.
