@@ -11,7 +11,7 @@ L'objectif était de mettre en place une **infrastructure réseau** combinant de
 ## Schéma réseau
 ![Schéma du réseau](images/système_IPv4_IPv6.png)
 
-## Compétences mises en oeuvre
+## Compétences apportées
 - **Virtualisation** avec VirtualBox + Vagrant.
 - **Adressage** IPv4 et IPv6.
 - **Routage**.
